@@ -1,5 +1,5 @@
-#Patika.dev Veri Yapıları ve Algoritmalar Projeleri
-##Insertion Sort Projesi
+# Patika.dev Veri Yapıları ve Algoritmalar Projeleri
+## Insertion Sort Projesi
 ### Soru
 **[22, 27, 16, 2, 18, 6]** 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
