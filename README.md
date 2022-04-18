@@ -17,7 +17,7 @@ Time Complexity: Average case: Aradığımız sayının ortada olması,Worst cas
       * 5.Döngü sonunda dizi [2, 6, 16, 18, 22, 27]
       * 6.Döngü sonunda dizi [2, 6, 16, 18, 22, 27]
 
-2. Big-O = O(n)
+2. Big-O = O(n^2)
 3. Dizi sıralandıktan sonra 18 sayısı average case kapsamına girer.
 4.    * 1.Döngü sonunda dizi [2, 3, 5, 8, 7, 9, 4, 15, 6]
       * 2.Döngü sonunda dizi [2, 3, 5, 8, 7, 9, 4, 15, 6]
